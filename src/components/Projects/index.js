@@ -1,3 +1,4 @@
+/* eslint-disable eqeqeq */
 import React from 'react'
 import { useState } from 'react'
 import { Container, Wrapper, Title, Desc, CardContainer, ToggleButtonGroup, ToggleButton, Divider } from './ProjectsStyle'
